@@ -1,0 +1,6 @@
+id,member_type,reference_no,title,firstname,surname,mobile,address1,address2,postcode,book_id,book_title,author,date_borrowed,date_due,days_on_loan,late_return_fine,selling_price,date_overdue,created_at
+1,Student,3214,Mr,Ernest,Nyema,0881233212,Harper Cityy,Heence Street,12345,ISBN-107,Things Fall Apart,Chinua Achebe,2025-12-06,2025-12-20,14,3.50,18.00,,2025-12-06T11:32:28.379117
+2,Admin Staff,1234,Game Design,Jonathan,Harmon II,0886975801,Harper,Pleebo,1234,ISBN-102,Game Design,James Ford,2025-12-07,2025-12-21,12,3.50,12.95,,2025-12-07T16:22:21.618331
+3,Student,4455,Mr,John,Doe,077787534,Monrovia,Pleebo,5544,ISBN-101,Cinderella,Paul Parker,2025-12-07,2025-12-21,14,2.99,9.95,,2025-12-07T16:29:53.870289
+4,Student,8877,Mrs,Mary,Peter,088123435,Harper,Pleebbo,2222,ISBN-107,Things Fall Apart,Chinua Achebe,2025-12-07,2025-12-21,14,3.50,18.00,,2025-12-07T16:38:34.058860
+5,Lecturer,4433,Mr,Jeremiah,Leakpor,0777234314,TU's Community,Monrovia,1111,ISBN-108,Arrow of God,Chinua Achebe,2025-12-07,2025-12-21,14,3.50,17.00,2025--12-30,2025-12-07T16:41:12.413319
